@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body
+{
+    background-color: #fafafa;
+}
+
+button
+{
+    /* margin-left: 80px; */
+    background-color: crimson;
+    width: 5rem;
+    height: 2rem;
+    border: none;
+    border-radius: 10px;
+}
